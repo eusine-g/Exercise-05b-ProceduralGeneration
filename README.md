@@ -1,4 +1,4 @@
-# Exercise-05a-Movement
+# Exercise-05b-ProceduralGeneration
 
 
 ## Implementation
@@ -8,4 +8,4 @@
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Ethan Goldblatt
